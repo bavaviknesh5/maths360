@@ -1,0 +1,95 @@
+
+body{
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1{
+  font-weight: 900;
+}
+
+/* navbar */
+.navbar{
+  background-color: #325288;
+}
+
+.container-fluid{
+  padding: 0;
+}
+
+.nav-logo{
+  width: 4rem;
+  border-radius: 100%;
+  margin: 3% 5% 3% 25%;
+}
+
+.navbar-brand{
+  font-size: 2.5em;
+  font-family: 'Arvo',sans-serif;
+  padding-top: 1%;
+  margin: 0;
+}
+
+.nav-item{
+  padding: 0 20px;
+}
+
+/* title */
+#title{
+  background-color: #FAEEE7;
+}
+.title-container{
+  padding: 5% 12%;
+  margin: 0;
+}
+.title-image{
+  width: 60%;
+  padding: 2% 0;
+}
+.title-content{
+  padding: 0 6% 0 0;
+}
+.title-content h1{
+  color: #325288;
+  /* color: #1572A1; */
+  /* color: #11468F; */
+}
+.title-profile{
+  padding: 0 0 0 3%;
+  text-align: center;
+}
+
+
+/* youtube */
+#youtube{
+  padding: 6% 4%;
+  line-height: 1.2;
+}
+#youtube h1{
+  text-align: center;
+}
+.youtube-card{
+  margin: 3% auto;
+}
+.card{
+  width: 80%;
+  margin: auto;
+}
+
+.youtube-button{
+  text-align: center;
+}
+
+/* contact */
+#contact{
+  text-align: center;
+  background-color: #24A19C;
+  color: white;
+  font-family: "Ubuntu",sans-serif;
+  padding: 4% 6%;
+  line-height: 1.5;
+}
+
+.socialmedia-icon{
+  color: white;
+  padding: 3% 2%;
+}
